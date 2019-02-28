@@ -11,6 +11,6 @@ end
 
 # call your method here!
 
-hello_t do
+hello_t(array) do
   puts "the method has yieled to the block!"
 end

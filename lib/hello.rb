@@ -10,3 +10,5 @@ def hello_t(array)
 end
 
 # call your method here!
+
+yielding { puts "the method has yielded to the block!" }
